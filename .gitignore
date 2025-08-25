@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Django database
+db.sqlite3
+
+# Django migrations (optional)
+*.sqlite3
+*.py[cod]
+*.egg-info/
+
+# VSCode
+.vscode/
